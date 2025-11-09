@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jinsung Sur — biostat777 intro"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: example-analysis.qmd
+        text: Example analysis
+  page-footer:
+    left: "© {{< meta author >}}"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-tools: true
+    number-sections: false
+    smooth-scroll: true
+    css: styles.css
+
+metadata-files:
+  - _meta.yml

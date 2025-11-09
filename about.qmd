@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+## A bit more about me
+
+- Focus: Statistical programming workflows, Reproducible research, and Public-health analytics.
+- Tools: R, Quarto, git/GitHub, command line.
+- Intro: ECFMG-certified physician and Johns Hopkins MPH candidate with four years of diverse clinical experience across military, academic, and international settings. I am committed to integrating systems-level public health principles with compassionate, patient-centered internal medicine.
+
+### Contact
+- GitHub: <https://github.com/jinsungsur>
+- Email: jsur3@jh.edu

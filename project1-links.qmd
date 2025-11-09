@@ -1,0 +1,9 @@
+---
+title: "Project 1 — Links for Grading"
+format: html
+---
+
+## URLs
+
+- **Public GitHub repo for website:** https://github.com/jinsungsur/biostat777-intro-Jin-sung-Sur
+- **Deployed website:** https://jinsungsur.quarto.pub/biostat777-intro-jin-sung-sur/

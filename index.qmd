@@ -1,0 +1,23 @@
+---
+title: "Welcome"
+---
+
+# Hi, I’m 
+Jinsung Sur
+!
+
+I’m a BSPH full-time MPH student interested in **Biostatistics**, **Epidemiology**, **Digital Health and AI**, and **Data management and vizualization**.
+Here’s a tiny website for **Biostat777** built with Quarto.
+
+
+![Something I really enjoy is playing soccer. This is my MPH Soccer Team. We managed to reach playoffs but had to forfeit because of Finals.](images/MPHBlueJays.jpg){fig-alt="MPH Blue Jays" width="320"}
+
+
+::: {.column-margin}
+**Margin note**  
+This is margin content. Will work on utilizing this
+:::
+
+
+
+- Use the navbar above to see the **About** page and the **Example analysis**.
