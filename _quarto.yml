@@ -12,7 +12,7 @@ website:
         text: About
       - href: example-analysis.qmd
         text: Project 1 Example analysis
-      - href: Project2.qmd
+      - href: project2.qmd
         text: Project 2
   page-footer:
     left: "© {{< meta author >}}"
