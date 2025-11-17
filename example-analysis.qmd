@@ -16,7 +16,7 @@ bibliography: references.bib
 
 ## Data and sources
 
-We use the **palmerpenguins** dataset [@horst2020palmerpenguins].  
+Used the **palmerpenguins** dataset [@horst2020palmerpenguins].  
 Tidy tools: **dplyr** [@dplyr], **tidyr** [@tidyr], **ggplot2** [@ggplot2].  
 Site is built with **Quarto** [@quarto].
 
@@ -125,7 +125,7 @@ These patterns are consistent with ecological and morphological differences docu
 **Reproducibility note.** All code is runnable end-to-end with dependencies listed in the repo.
 :::
 
-## Functions used (for TA checklist)
+## Functions used (Checklist)
 
 - **dplyr/tidyr:** `drop_na()`, `filter()`, `mutate()`, `select()`, `arrange()`, `pivot_longer()`, `group_by()`, `summarise()`  
 - **ggplot2 geoms/facets:** `geom_point()`, `geom_smooth()`, `geom_boxplot()`, `geom_col()`, `facet_wrap()`
