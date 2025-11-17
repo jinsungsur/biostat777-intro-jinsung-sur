@@ -11,3 +11,7 @@ Built with Quarto. See `example-analysis.qmd` for the analysis page.
 ## Part 2 (command line)
 Run in Git Bash:
 bash part2.sh
+
+## Project 2
+
+- Project 2 page: https://jinsungsur.github.io/biostat777-intro-jinsung-sur/project2.html
